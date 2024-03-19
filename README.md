@@ -6,7 +6,7 @@ class About extends Me {
     private string $user = 'maersux';
     private int $age = 24;
 
-    public function getSocials() {
+    public function getSocials(): array {
         return [
             'instagram': '@maersux',
             'twitch': '@maersux'
