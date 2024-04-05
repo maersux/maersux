@@ -8,8 +8,9 @@ class About extends Me {
 
     public function getSocials(): array {
         return [
-            'instagram': '@maersux',
-            'twitch': '@maersux'
+            'discord' => '@maersux',
+            'instagram' => '@maersux',
+            'twitch' => '@maersux'
         ];
     }
 }
