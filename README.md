@@ -11,6 +11,7 @@ class About extends Me {
             'discord' => '@maersux',
             'instagram' => '@maersux',
             'twitch' => '@maersux'
+            'website' => 'https//maersux.dev/'
         ];
     }
 }
